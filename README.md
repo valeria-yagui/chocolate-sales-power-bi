@@ -4,7 +4,7 @@ Hello and welcome to my Power BI dashboard!
 
 I built an interactive Power BI dashboard analyzing chocolate retail sales across countries, brands, and products (2023–2024). I built this as a portfolio project to practice my Power BI skills end-to-end: data modeling, DAX, and dashboard design.
 
-![Executive Overview](images/executive_overview.jpg)
+![Executive Overview](images/executive_overview.JPG)
 
 ## Objective
 
@@ -24,7 +24,7 @@ The dashboard was designed for **sales/business managers** who want a periodic (
 Synthetic FMCG-style retail data with a **star schema**: a `Sales` fact table connected to `Products`, `Stores`, `Customers`, and `Calendar` dimension tables.
 
 
-## 🖥️ Dashboard Pages
+## Dashboard Pages
 
 **1. Executive Overview**
 KPI cards (Profit, Revenue, Orders, Units Sold, AOV) with YoY comparison, revenue/profit trend, revenue by country (with flag images), revenue by brand and store type, and a top 10 products table.
@@ -36,7 +36,7 @@ Country-level deep dive with a flag image that updates dynamically based on the 
 **3. Time Intelligence & Seasonality**
 Year-over-year and quarter-over-quarter revenue/profit table, a quarter/month treemap, and revenue by day of the week to surface seasonality patterns.
 
-## ⚙️ Key Elements & Techniques
+## Key Elements & Techniques
 
 - **Star schema** data model (Sales fact + Products, Stores, Customers, Calendar dimensions)
 - **DAX measures** for dynamic KPI card coloring (background + text color change based on YoY performance)
