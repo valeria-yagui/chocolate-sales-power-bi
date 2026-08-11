@@ -8,7 +8,7 @@ I built an interactive Power BI dashboard analyzing chocolate retail sales acros
 
 ## Objective
 
-I did this dashboard to practice Power BI beyond just writing measures. I wanted to focus on **UX and visual design**: consistent color palette, clear navigation, drill-through, and dynamic visuals that respond to user selections.
+I did this dashboard to practice Power BI more than just writing measures. I wanted to focus on **UX and visual design**: consistent color palette, clear navigation, drill-through, and dynamic visuals that respond to user selections.
 
 The dashboard was designed for **sales/business managers** who want a periodic (not real-time) view of performance:
 - Compare revenue, profit, and orders year-over-year
